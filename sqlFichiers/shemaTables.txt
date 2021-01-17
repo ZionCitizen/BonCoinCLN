@@ -1,0 +1,16 @@
+------------
+UTILISATEUR:
+-----------
+id | nom | prenom |date_naissance|telephone|email|mdp
+---------
+ANNONCE:
+---------
+ida | idu | nom |categorie | description | prix | date_ajout|datefin
+---------
+MESSAGE:
+---------
+idm|idExpi|idDesti|contenue|dateEnvoie
+--------
+IMAGE:
+--------
+idimg|ida|chemin
